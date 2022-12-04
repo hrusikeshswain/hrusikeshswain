@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hrusikeshswain
-- 👀 I’m interested in android app development
+- 👀 I’m  interested in Android ,React, Javascript, Node , AWS ,Go programming languages and fastlane,circleci CI CD pipeline tools.
 - 🌱 I’m currently learning jet compose and dagger hilt also tring to learn ktor for backened.
-- 💞️ I’m looking to collaborate on android app development 
+- 💞️ I’m looking to collaborate on mobile app development 
 - 📫 How to reach me ...
 - hemantaswn@gmail.com
 - 9968085969
